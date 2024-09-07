@@ -1,5 +1,6 @@
 package com.example.restapi.controller;
 
+import com.example.restapi.model.BookQueryParam;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
